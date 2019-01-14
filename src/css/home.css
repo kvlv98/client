@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+#catalog-pane {
+    margin-top: 50px;
+}
+
+#main-text {
+    font-family: 'Roboto Slab', serif;
+    font-style: italic;
+    font-weight: bold;
+}
